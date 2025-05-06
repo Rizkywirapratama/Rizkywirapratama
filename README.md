@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rizkywirapratama/Rizkywirapratama/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rizkywirapratama/Rizkywirapratama/snake.yml](https://github.com/Rizkywirapratama/Rizkywirapratama/blob/main/snake.yml" alt="Snake animation" />
 
 ###
