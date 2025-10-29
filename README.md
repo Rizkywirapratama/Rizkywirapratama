@@ -1,9 +1,9 @@
-Rizkywirapratama = {
-    "pronouns": "He/Him",
-    "location": "Jambi City, Indonesia",
-    "role": "Web Developer & Mobile Developer",
-    "expertise": ["Frontend", "Mobile Development", "UI/UX"],
-    "funFact": "I need coffee ☕"
+Rizkywirapratama = { <br>
+    "pronouns": "He/Him", <br>
+    "location": "Jambi City, Indonesia", <br>
+    "role": "Web Developer & Mobile Developer", <br>
+    "expertise": ["Frontend", "Mobile Development", "UI/UX"], <br>
+    "funFact": "I need coffee ☕"<br>
 }
 
 
