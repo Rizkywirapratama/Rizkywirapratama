@@ -1,5 +1,10 @@
-Rizkywirapratama = { {<br>    "pronouns": "He/Him",<br>    "location": "Jambi City, Indonesia",<br>    "role": "Web Devoloper & Mobile Developer",<br>    "expertise": ["Frontend", "Mobile Development", "UI/UX"],<br>    "funFact": "I need coffee"<br>};
-
+Rizkywirapratama = {
+    "pronouns": "He/Him",
+    "location": "Jambi City, Indonesia",
+    "role": "Web Developer & Mobile Developer",
+    "expertise": ["Frontend", "Mobile Development", "UI/UX"],
+    "funFact": "I need coffee ☕"
+}
 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mulyono30042008) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizkywirapratama_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizkywirapratama98@gmail.com) 
