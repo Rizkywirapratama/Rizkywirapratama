@@ -2,7 +2,7 @@ Rizkywirapratama = { <br>
     "pronouns": "He/Him", <br>
     "location": "Jambi City, Indonesia", <br>
     "role": "Web Developer & Mobile Developer", <br>
-    "expertise": ["Frontend", "Mobile Development", "UI/UX"], <br>
+    "expertise": ["Frontend", "backend", "Mobile Development", "UI/UX"], <br>
     "funFact": "I need coffee ☕"<br>
 }
 
